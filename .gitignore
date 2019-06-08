@@ -19,6 +19,8 @@ examples/img/*
 .cache
 .pytest_cache
 
+*.h5
+
 # developer environments
 .idea
 .vscode
